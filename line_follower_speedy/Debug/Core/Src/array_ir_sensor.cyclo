@@ -1,0 +1,6 @@
+../Core/Src/array_ir_sensor.c:21:17:adc_read	1
+../Core/Src/array_ir_sensor.c:49:13:select_channel	1
+../Core/Src/array_ir_sensor.c:67:6:enable_mux	1
+../Core/Src/array_ir_sensor.c:79:6:enable_ldo	1
+../Core/Src/array_ir_sensor.c:93:6:read_array	2
+../Core/Src/array_ir_sensor.c:110:6:sense_IR	1

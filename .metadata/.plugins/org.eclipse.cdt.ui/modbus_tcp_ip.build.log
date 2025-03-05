@@ -1,0 +1,10 @@
+02:02:39 **** Incremental Build of configuration Debug for project modbus_tcp_ip ****
+make -j12 all 
+arm-none-eabi-size  modbus_tcp_ip.elf 
+   text	   data	    bss	    dec	    hex	filename
+  81152	    448	  39992	 121592	  1daf8	modbus_tcp_ip.elf
+Finished building: default.size.stdout
+ 
+
+02:02:39 Build Finished. 0 errors, 0 warnings. (took 298ms)
+

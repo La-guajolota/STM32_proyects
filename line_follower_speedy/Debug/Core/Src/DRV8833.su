@@ -1,0 +1,5 @@
+../Core/Src/DRV8833.c:9:6:sleep_driver	4	static
+../Core/Src/DRV8833.c:13:6:stop_motors	4	static
+../Core/Src/DRV8833.c:22:6:motorA	16	static
+../Core/Src/DRV8833.c:41:6:motorB	16	static
+../Core/Src/DRV8833.c:58:6:motors	16	static

@@ -1,0 +1,33 @@
+/*
+ * DRV8833.c
+ *
+ *  Created on: Feb 3, 2025
+ *      Author: Adrián Silva Palafox
+ */
+#include "DRV8833.h"
+
+extern TIM_HandleTypeDef htim1;
+
+void stop_motors(){
+
+}
+
+void motorA(uint8_t state, uint8_t duty){
+	switch (state) {
+	    case stop:
+
+	    	break;
+		case dir_b:
+
+			break;
+		case dir_a:
+
+			break;
+		default:
+			break;
+	}
+}
+
+void motorB(uint8_t state, uint8_t duty){
+
+}

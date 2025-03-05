@@ -1,0 +1,6 @@
+../Core/Src/array_ir_sensor.c:21:17:adc_read	8	static
+../Core/Src/array_ir_sensor.c:49:13:select_channel	32	static,ignoring_inline_asm
+../Core/Src/array_ir_sensor.c:67:6:enable_mux	16	static
+../Core/Src/array_ir_sensor.c:79:6:enable_ldo	16	static
+../Core/Src/array_ir_sensor.c:93:6:read_array	32	static
+../Core/Src/array_ir_sensor.c:110:6:sense_IR	16	static
