@@ -1,0 +1,50 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:111:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:101:6:virtual void AbstractGraph::setX(int16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:110:6:virtual void AbstractGraph::setY(int16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:119:6:virtual void AbstractGraph::setWidth(int16_t)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:128:6:virtual void AbstractGraph::setHeight(int16_t)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:137:6:virtual void AbstractGraph::clearGraph()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:192:6:virtual bool AbstractGraph::deleteValue(int)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:274:6:virtual void AbstractGraph::invalidateRectContainingIndices(int, int) const	32	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:323:6:virtual touchgfx::Rect AbstractGraph::getMinimalRect() const	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:332:6:virtual void AbstractGraph::setNumPoints(int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:341:6:virtual void AbstractGraph::invalidateLineFromIndex(int)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:371:5:virtual int AbstractGraph::findX(int)	12	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:422:6:virtual void AbstractGraph::assignWidth(int16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:432:6:virtual void AbstractGraph::assignHeight(int16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:146:6:virtual bool AbstractGraph::addValue(int, int)	32	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:350:6:virtual void AbstractGraph::insertPointAtIndex(int)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:361:6:virtual void AbstractGraph::deletePointAtIndex(int)	24	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:23:1:AbstractGraph::AbstractGraph()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:29:1:AbstractGraph::~AbstractGraph()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:29:1:virtual AbstractGraph::~AbstractGraph()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:33:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetX(int) const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:42:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetY(int) const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:51:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetXindex(int) const	0	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:452:17:touchgfx::CWRUtil::Q5 AbstractGraph::xAboveIncoming(int) const	16	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:436:17:touchgfx::CWRUtil::Q5 AbstractGraph::xAboveOutgoing(int) const	16	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:460:17:touchgfx::CWRUtil::Q5 AbstractGraph::xBelowIncoming(int) const	16	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:444:17:touchgfx::CWRUtil::Q5 AbstractGraph::xBelowOutgoing(int) const	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:56:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetYindex(int) const	0	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:440:17:touchgfx::CWRUtil::Q5 AbstractGraph::yAboveOutgoing(int) const	16	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:456:17:touchgfx::CWRUtil::Q5 AbstractGraph::yAboveIncoming(int) const	16	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:464:17:touchgfx::CWRUtil::Q5 AbstractGraph::yBelowIncoming(int) const	16	static
+../../../Gui/gui/include/gui/graph_screen/AbstractGraph.hpp:448:17:touchgfx::CWRUtil::Q5 AbstractGraph::yBelowOutgoing(int) const	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:285:6:virtual void AbstractGraph::updateAndInvalidateCacheForLinesBetweenIndeces(int, int)	32	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:61:6:void AbstractGraph::setBuffer(GraphPoint*, int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:72:6:void AbstractGraph::setLinkedGraph(AbstractGraph&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:406:6:void AbstractGraph::assignRange(int, int, int, int)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:88:6:void AbstractGraph::setRange(int, int, int, int)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/AbstractGraph.cpp:213:6:virtual bool AbstractGraph::drawCanvasWidget(const touchgfx::Rect&) const	224	static

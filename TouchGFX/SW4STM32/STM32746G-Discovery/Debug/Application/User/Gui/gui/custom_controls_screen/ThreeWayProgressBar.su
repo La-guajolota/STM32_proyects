@@ -1,0 +1,39 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:touchgfx::Callback<ThreeWayProgressBar, const touchgfx::AbstractButton&>::~Callback()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = ThreeWayProgressBar; T1 = const touchgfx::AbstractButton&]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = ThreeWayProgressBar; T1 = const touchgfx::AbstractButton&]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:112:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = ThreeWayProgressBarCircle]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:126:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = ThreeWayProgressBarCircle]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:141:18:bool touchgfx::MoveAnimator<T>::isRunning() const [with T = ThreeWayProgressBarCircle]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:155:18:bool touchgfx::MoveAnimator<T>::isMoveAnimationRunning() const [with T = ThreeWayProgressBarCircle]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:virtual touchgfx::Callback<ThreeWayProgressBar, const touchgfx::AbstractButton&>::~Callback()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:67:13:touchgfx::MoveAnimator<T>::~MoveAnimator() [with T = ThreeWayProgressBarCircle]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:67:13:touchgfx::MoveAnimator<T>::~MoveAnimator() [with T = ThreeWayProgressBarCircle]	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:108:6:void ThreeWayProgressBar::buttonPressedHandler(const touchgfx::AbstractButton&)	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:68:1:ThreeWayProgressBar::~ThreeWayProgressBar()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:68:1:virtual ThreeWayProgressBar::~ThreeWayProgressBar()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TypedText.hpp:205:10:void touchgfx::TypedText::assertValid() const	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:155:10:void touchgfx::ButtonWithLabel::updateTextPosition()	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:99:6:void ThreeWayProgressBar::stopAnimation()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:135:6:void ThreeWayProgressBar::setBarPercentage(int, int)	40	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:116:6:void ThreeWayProgressBar::setActive(bool)	24	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:244:10:void touchgfx::MoveAnimator<T>::nextMoveAnimationStep() [with T = ThreeWayProgressBarCircle]	24	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:230:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = ThreeWayProgressBarCircle]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:181:10:void touchgfx::MoveAnimator<T>::startMoveAnimation(int16_t, int16_t, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation) [with T = ThreeWayProgressBarCircle]	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:72:6:void ThreeWayProgressBar::reset()	32	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/ThreeWayProgressBar.cpp:25:1:ThreeWayProgressBar::ThreeWayProgressBar()	64	static

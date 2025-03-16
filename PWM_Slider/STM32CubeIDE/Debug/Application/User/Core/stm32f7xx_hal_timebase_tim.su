@@ -1,0 +1,3 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_timebase_tim.c:42:19:HAL_InitTick	48	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_timebase_tim.c:121:6:HAL_SuspendTick	0	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_timebase_tim.c:133:6:HAL_ResumeTick	0	static

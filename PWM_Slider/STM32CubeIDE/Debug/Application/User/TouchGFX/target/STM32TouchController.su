@@ -1,0 +1,7 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/target/STM32TouchController.cpp:32:6:virtual void STM32TouchController::init()	0	static
+../../TouchGFX/target/STM32TouchController.hpp:36:7:STM32TouchController::~STM32TouchController()	0	static
+../../TouchGFX/target/STM32TouchController.hpp:36:7:virtual STM32TouchController::~STM32TouchController()	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/target/STM32TouchController.cpp:41:6:virtual bool STM32TouchController::sampleTouch(int32_t&, int32_t&)	24	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/target/STM32TouchController.cpp:150:6:void TS_IO_Write(uint8_t, uint8_t, uint8_t)	32	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/target/STM32TouchController.cpp:161:9:uint8_t TS_IO_Read(uint8_t, uint8_t)	32	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/target/STM32TouchController.cpp:175:6:void TS_IO_Delay(uint32_t)	0	static

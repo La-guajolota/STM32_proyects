@@ -1,0 +1,4 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/generated/texts/src/TypedTextDatabase.cpp:230:45:const touchgfx::TypedText::TypedTextData* TypedTextDatabase::getInstance(touchgfx::LanguageId)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/generated/texts/src/TypedTextDatabase.cpp:235:12:uint16_t TypedTextDatabase::getInstanceSize()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/generated/texts/src/TypedTextDatabase.cpp:239:33:const touchgfx::Font* const* TypedTextDatabase::getFonts()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/generated/texts/src/TypedTextDatabase.cpp:243:1:cpp)	8	static

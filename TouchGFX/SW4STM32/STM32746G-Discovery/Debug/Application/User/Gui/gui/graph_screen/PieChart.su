@@ -1,0 +1,37 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:252:6:virtual void PieChart::setWidth(int16_t)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:261:6:virtual void PieChart::setHeight(int16_t)	16	static
+../../../Gui/gui/include/gui/graph_screen/PieChart.hpp:56:7:PieChart::~PieChart()	16	static
+../../../Gui/gui/include/gui/graph_screen/PieChart.hpp:56:7:virtual PieChart::~PieChart()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:558:16:static touchgfx::CWRUtil::Q15 touchgfx::CWRUtil::sine(int)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:863:21:static uint32_t touchgfx::CWRUtil::isqrt(uint32_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:674:19:static int8_t touchgfx::CWRUtil::arcsine(Q10)	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:843:16:static int touchgfx::CWRUtil::_angle(Q5, Q5, Q5&)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:50:6:void PieChart::setSlices(int*)	12	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:61:6:void PieChart::setPainter(int, touchgfx::AbstractPainterRGB565&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:92:6:void PieChart::getAngles(int&, int&) const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:116:6:void PieChart::setSelectAnimationSteps(int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:144:6:bool PieChart::isSelected(int) const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:164:6:void PieChart::recalculatePieChart()	64	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:78:6:void PieChart::setRadiuses(int, int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:85:6:void PieChart::setAngles(int, int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:98:6:void PieChart::setPieChart(int, int, int, int)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:109:6:void PieChart::setCenter(int, int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:149:6:void PieChart::unselectAll()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:362:6:virtual void PieChart::handleTickEvent()	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:203:6:void PieChart::startPieChartAnimation(int, int, int, int, int, touchgfx::EasingEquation, touchgfx::EasingEquation)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:21:1:PieChart::PieChart()	48	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:226:6:void PieChart::animateSelected(int, touchgfx::EasingEquation)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:124:6:void PieChart::setSelected(int, bool)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:270:6:virtual void PieChart::handleClickEvent(const touchgfx::ClickEvent&)	40	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:236:6:void PieChart::setPieChartSelectionCallback(touchgfx::GenericCallback<const PieChart&, int>&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:241:6:void PieChart::setPieChartAnimationEndedCallback(touchgfx::GenericCallback<const PieChart&>&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PieChart.cpp:247:6:void PieChart::activatePieChartAnimationEndedCallback(bool)	0	static

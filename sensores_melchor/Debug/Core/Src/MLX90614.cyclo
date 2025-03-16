@@ -1,0 +1,6 @@
+../Core/Src/MLX90614.c:12:19:SENS_MLX90614	1
+../Core/Src/MLX90614.c:28:7:MLX90614_ReadTemp	1
+../Core/Src/MLX90614.c:40:6:MLX90614_SendDebugMsg	3
+../Core/Src/MLX90614.c:88:9:CRC8_Calc	2
+../Core/Src/MLX90614.c:109:6:MLX90614_WriteReg	1
+../Core/Src/MLX90614.c:151:10:MLX90614_ReadReg	3

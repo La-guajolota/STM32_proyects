@@ -1,0 +1,20 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:128:18:virtual void touchgfx::HAL::setDisplayOrientation(touchgfx::DisplayOrientation)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:382:28:virtual touchgfx::BlitOperations touchgfx::HAL::getBlitCaps()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:679:18:virtual bool touchgfx::HAL::sampleKey(uint8_t&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:1084:18:virtual void touchgfx::HAL::taskDelay(uint16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:31:11:virtual uint16_t* STM32F7HAL::getTFTFrameBuffer() const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:36:6:virtual void STM32F7HAL::setTFTFrameBuffer(uint16_t*)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:44:10:virtual uint16_t STM32F7HAL::getTFTCurrentLine()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:65:6:virtual void STM32F7HAL::configureInterrupts()	0	static
+../../../Gui/target/STM32F7HAL.hpp:34:7:STM32F7HAL::~STM32F7HAL()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:76:6:virtual void STM32F7HAL::enableLCDControllerInterrupt()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:99:6:virtual void STM32F7HAL::flushFrameBuffer(const touchgfx::Rect&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:623:18:virtual void touchgfx::HAL::backPorchExited()	8	static
+../../../Gui/target/STM32F7HAL.hpp:99:18:virtual void STM32F7HAL::flushFrameBuffer()	0	static
+../../../Gui/target/STM32F7HAL.hpp:34:7:virtual STM32F7HAL::~STM32F7HAL()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:1205:18:virtual void touchgfx::HAL::performDisplayOrientationChange()	12	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:778:18:virtual void touchgfx::HAL::setFrameBufferStartAddresses(void*, void*, void*)	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/HAL.hpp:723:18:virtual void touchgfx::HAL::setFrameBufferStartAddress(void*, uint16_t, bool, bool)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:92:6:virtual void STM32F7HAL::enableInterrupts()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:85:6:virtual void STM32F7HAL::disableInterrupts()	0	static,ignoring_inline_asm
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7HAL.cpp:109:6:void HAL_LTDC_LineEventCallback(LTDC_HandleTypeDef*)	8	static

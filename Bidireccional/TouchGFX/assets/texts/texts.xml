@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.23.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_J3G4" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">ADC</Translation>
+      </Text>
+      <Text Id="__SingleUse_BNXK" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">next</Translation>
+      </Text>
+      <Text Id="__SingleUse_6SZ7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">LED</Translation>
+      </Text>
+      <Text Id="__SingleUse_AZ0Q" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">APACHURRAR</Translation>
+      </Text>
+      <Text Id="__SingleUse_NGLI" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="-., 0123456789" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

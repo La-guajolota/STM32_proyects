@@ -1,0 +1,8 @@
+../../../Gui/gui/include/gui/model/ModelListener.hpp:51:18:virtual void ModelListener::timeUpdated(Time)	1
+../../../Gui/gui/include/gui/model/ModelListener.hpp:55:18:virtual void ModelListener::screenSaverMinorTick()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphPresenter.cpp:29:1:GraphPresenter::~GraphPresenter()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphPresenter.cpp:33:6:virtual void GraphPresenter::activate()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphPresenter.cpp:42:6:virtual void GraphPresenter::screenSaverMajorTick()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphPresenter.cpp:29:1:virtual GraphPresenter::~GraphPresenter()	1
+../../../Gui/gui/include/gui/graph_screen/GraphPresenter.hpp:33:13:virtual void* GraphPresenter::_ZThn4_N14GraphPresenterD1Ev()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphPresenter.cpp:23:1:GraphPresenter::GraphPresenter(GraphView&)	1

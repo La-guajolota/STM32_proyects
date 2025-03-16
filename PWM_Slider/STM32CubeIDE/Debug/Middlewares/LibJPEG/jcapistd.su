@@ -1,0 +1,3 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/LibJPEG/source/jcapistd.c:38:1:jpeg_start_compress	16	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/LibJPEG/source/jcapistd.c:77:1:jpeg_write_scanlines	32	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/LibJPEG/source/jcapistd.c:120:1:jpeg_write_raw_data	24	static

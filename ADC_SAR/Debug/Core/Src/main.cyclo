@@ -1,0 +1,11 @@
+../Core/Src/main.c:87:5:main	8
+../Core/Src/main.c:204:6:SystemClock_Config	3
+../Core/Src/main.c:250:13:MX_ADC1_Init	3
+../Core/Src/main.c:302:13:MX_TIM1_Init	7
+../Core/Src/main.c:377:13:MX_TIM4_Init	3
+../Core/Src/main.c:426:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:459:13:MX_GPIO_Init	1
+../Core/Src/main.c:527:9:convert	4
+../Core/Src/main.c:577:9:represent	1
+../Core/Src/main.c:590:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:600:6:Error_Handler	1

@@ -1,0 +1,53 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:69:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:161:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:416:22:virtual uint16_t touchgfx::TextArea::getType() const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:30:1:WheelSelector::~WheelSelector()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:67:13:touchgfx::MoveAnimator<T>::~MoveAnimator() [with T = touchgfx::TextArea]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:141:18:bool touchgfx::MoveAnimator<T>::isRunning() const [with T = touchgfx::TextArea]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:155:18:bool touchgfx::MoveAnimator<T>::isMoveAnimationRunning() const [with T = touchgfx::TextArea]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:touchgfx::Callback<WheelSelector, const touchgfx::MoveAnimator<touchgfx::TextArea>&>::~Callback()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = WheelSelector; T1 = const touchgfx::MoveAnimator<touchgfx::TextArea>&]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = WheelSelector; T1 = const touchgfx::MoveAnimator<touchgfx::TextArea>&]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:112:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = touchgfx::TextArea]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:126:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = touchgfx::TextArea]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:67:13:touchgfx::MoveAnimator<T>::~MoveAnimator() [with T = touchgfx::TextArea]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:virtual touchgfx::Callback<WheelSelector, const touchgfx::MoveAnimator<touchgfx::TextArea>&>::~Callback()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:30:1:virtual WheelSelector::~WheelSelector()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:95:6:virtual void WheelSelector::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:60:5:touchgfx::Drawable::Drawable()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TypedText.hpp:135:17:const touchgfx::Font* touchgfx::TypedText::getFont() const	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:142:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:74:6:void WheelSelector::setTextColor(touchgfx::colortype, touchgfx::colortype, touchgfx::colortype, int, int)	12	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:139:6:void WheelSelector::snap()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:159:5:int WheelSelector::getSelectedIndex()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:181:6:void WheelSelector::textMoveEndedHandler(const touchgfx::MoveAnimator<touchgfx::TextArea>&)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:204:6:void WheelSelector::adjustForBoundries(int&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:164:6:void WheelSelector::setSelectedIndex(int, int, touchgfx::EasingEquation)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:216:6:virtual void WheelSelector::moveText(int)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:120:6:virtual void WheelSelector::handleGestureEvent(const touchgfx::GestureEvent&)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:236:6:void WheelSelector::reset()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:34:6:virtual void WheelSelector::setup(int, int, int, int, TEXTS)	40	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:51:5:touchgfx::MoveAnimator<T>::MoveAnimator() [with T = touchgfx::TextArea]	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:23:1:WheelSelector::WheelSelector()	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:212:10:void touchgfx::MoveAnimator<T>::cancelMoveAnimation() [with T = touchgfx::TextArea]	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:103:6:virtual void WheelSelector::handleClickEvent(const touchgfx::ClickEvent&)	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:244:10:void touchgfx::MoveAnimator<T>::nextMoveAnimationStep() [with T = touchgfx::TextArea]	24	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:230:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = touchgfx::TextArea]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:181:10:void touchgfx::MoveAnimator<T>::startMoveAnimation(int16_t, int16_t, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation) [with T = touchgfx::TextArea]	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelector.cpp:227:6:virtual void WheelSelector::animateMoveText(int, int, touchgfx::EasingEquation)	32	static

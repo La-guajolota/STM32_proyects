@@ -1,0 +1,4 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F746GTouchController.hpp:26:7:touchgfx::STM32F746GTouchController::~STM32F746GTouchController()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F746GTouchController.cpp:31:6:virtual void touchgfx::STM32F746GTouchController::init()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F746GTouchController.cpp:36:6:virtual bool touchgfx::STM32F746GTouchController::sampleTouch(int32_t&, int32_t&)	64	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F746GTouchController.hpp:26:7:virtual touchgfx::STM32F746GTouchController::~STM32F746GTouchController()	8	static

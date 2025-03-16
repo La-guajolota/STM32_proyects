@@ -1,0 +1,7 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PainterVerticalAlpha.cpp:43:6:virtual bool PainterVerticalAlpha::renderInit()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PainterVerticalAlpha.cpp:58:6:virtual void PainterVerticalAlpha::render(uint8_t*, int, int, int, unsigned int, const uint8_t*)	56	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PainterVerticalAlpha.cpp:150:6:virtual bool PainterVerticalAlpha::renderNext(uint8_t&, uint8_t&, uint8_t&, uint8_t&)	0	static
+../../../Gui/gui/include/gui/graph_screen/PainterVerticalAlpha.hpp:50:7:PainterVerticalAlpha::~PainterVerticalAlpha()	8	static
+../../../Gui/gui/include/gui/graph_screen/PainterVerticalAlpha.hpp:50:7:virtual PainterVerticalAlpha::~PainterVerticalAlpha()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PainterVerticalAlpha.cpp:29:6:void PainterVerticalAlpha::setColor(touchgfx::colortype, int)	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/PainterVerticalAlpha.cpp:24:1:PainterVerticalAlpha::PainterVerticalAlpha(touchgfx::colortype, int)	16	static

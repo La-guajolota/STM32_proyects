@@ -1,0 +1,8 @@
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:456:13:Camera_FrameBuffer_Init_TransferComplete	1
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:466:13:Camera_FrameBuffer_Init_TransferError	1
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:427:13:Camera_SetHint	1
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:522:13:ConvertCameraLineRgb565ToLcdLineARGB8888	5
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:114:6:Camera_demo	50
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:559:6:BSP_CAMERA_LineEventCallback	9
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:635:6:BSP_LCD_DMA2D_IRQHandler	1
+E:/Sexto_sem/MCU_avanzados/BSP/Src/camera.c:648:6:HAL_DMA2D_MspInit	1

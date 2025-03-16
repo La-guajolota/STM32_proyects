@@ -1,0 +1,8 @@
+../../../Gui/gui/include/gui/model/ModelListener.hpp:51:18:virtual void ModelListener::timeUpdated(Time)	8	static
+../../../Gui/gui/include/gui/model/ModelListener.hpp:56:18:virtual void ModelListener::screenSaverMajorTick()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/CustomControlsPresenter.cpp:29:1:CustomControlsPresenter::~CustomControlsPresenter()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/CustomControlsPresenter.cpp:33:6:virtual void CustomControlsPresenter::activate()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/CustomControlsPresenter.cpp:42:6:virtual void CustomControlsPresenter::screenSaverMinorTick()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/CustomControlsPresenter.cpp:29:1:virtual CustomControlsPresenter::~CustomControlsPresenter()	8	static
+../../../Gui/gui/include/gui/custom_controls_screen/CustomControlsPresenter.hpp:33:13:virtual void* CustomControlsPresenter::_ZThn4_N23CustomControlsPresenterD1Ev()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/CustomControlsPresenter.cpp:23:1:CustomControlsPresenter::CustomControlsPresenter(CustomControlsView&)	16	static

@@ -1,0 +1,9 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenView.cpp:13:6:virtual void ScreenView::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/screen_screen/ScreenView.hpp:11:13:ScreenView::~ScreenView()	1
+../../TouchGFX/gui/include/gui/screen_screen/ScreenView.hpp:11:13:virtual ScreenView::~ScreenView()	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenView.cpp:3:1:ScreenView::ScreenView()	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenView.cpp:8:6:virtual void ScreenView::setupScreen()	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenView.cpp:23:6:virtual void ScreenView::circulo_pwm_fun(int)	1

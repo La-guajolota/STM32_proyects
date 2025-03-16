@@ -1,0 +1,325 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Screen_plot",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "Width": 480,
+            "Height": 272,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph1",
+            "Width": 480,
+            "Height": 272,
+            "DataSeed": -257624233,
+            "NumberOfValues": 100,
+            "MaxY": 254.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "InsertRandomValues": true,
+            "Alpha": 100,
+            "LabelSizeTop": 5,
+            "LabelSizeBottom": 10,
+            "LabelSizeLeft": 50,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 6,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 196,
+                  "Green": 22,
+                  "Blue": 39
+                }
+              }
+            ],
+            "YAxisLabel": {
+              "Type": "GraphLabel",
+              "Interval": 25.0,
+              "DecimalSeparator": "Point",
+              "TextColor": {
+                "Red": 164,
+                "Green": 22,
+                "Blue": 196
+              },
+              "TextId": "__SingleUse_NGLI",
+              "TextRotation": "0",
+              "Position": "Left"
+            }
+          },
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 754,
+            "Height": 668,
+            "LockPosition": true,
+            "RelativeFilename": "monas_2s.png",
+            "Alpha": 56
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "btn_led",
+            "X": 377,
+            "Width": 100,
+            "Height": 36,
+            "LockPosition": true,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "TextId": "__SingleUse_6SZ7",
+            "ReleasedColor": {
+              "Red": 212,
+              "Green": 25,
+              "Blue": 25
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction_To_Screen_LED",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "btn_led"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionWipe",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "Screen_led"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Screen_led",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "X": -136,
+            "Y": -327,
+            "Width": 912,
+            "Height": 808,
+            "LockPosition": true,
+            "RelativeFilename": "Captura de pantalla 2024-03-12 081018.png",
+            "Alpha": 95
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "btn_LED",
+            "X": 107,
+            "Y": 3,
+            "Width": 266,
+            "Height": 266,
+            "LockPosition": true,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_huge_outline_pressed.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_huge_outline_action.png",
+            "TextId": "__SingleUse_AZ0Q",
+            "ReleasedColor": {
+              "Red": 227,
+              "Green": 7,
+              "Blue": 7
+            },
+            "PressedColor": {
+              "Red": 252,
+              "Green": 15,
+              "Blue": 15
+            },
+            "TextRotation": "0",
+            "Preset": "alternate_theme\\presets\\button\\icon\\round\\huge_outline_action.json"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "btn_next",
+            "X": 420,
+            "Y": 209,
+            "Width": 60,
+            "Height": 60,
+            "LockPosition": true,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_tiny_outline_pressed.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_tiny_outline_action.png",
+            "TextId": "__SingleUse_BNXK",
+            "ReleasedColor": {
+              "Red": 196,
+              "Green": 22,
+              "Blue": 22
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Preset": "alternate_theme\\presets\\button\\icon\\rounded\\tiny_outline_action.json"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction_To_Screen_BTN",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "btn_next"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "Screen_btn"
+            }
+          },
+          {
+            "InteractionName": "Interaction_Toggle_LED",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "btn_LED"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "toggle_LED"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Screen_btn",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "X": -530,
+            "Y": -1006,
+            "Width": 2558,
+            "Height": 1498,
+            "RelativeFilename": "LAND.png"
+          },
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "Y": 222,
+            "Width": 50,
+            "Height": 50,
+            "Color": {
+              "Red": 39,
+              "Green": 186,
+              "Blue": 69
+            }
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "BTN_ADC",
+            "Width": 138,
+            "Height": 138,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_rounded_medium_outline_pressed.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_rounded_medium_outline_action.png",
+            "TextId": "__SingleUse_J3G4",
+            "ReleasedColor": {
+              "Red": 94,
+              "Green": 230,
+              "Blue": 21
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0",
+            "Preset": "alternate_theme\\presets\\button\\icon\\rounded\\medium_outline_action.json"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction_To_ADC",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "BTN_ADC"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "Screen_plot"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "Bidireccional",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "Screen_plot",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommand": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommand": "make -f ../gcc/Makefile flash -j8",
+    "FlashTargetIntCommandOverride": "make -f ../gcc/Makefile intflash -j8",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32F7",
+    "SubFamily": "STM32F7x6",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../STM32F746G_DISCO.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": [
+      "CWRVector",
+      "VectorFonts",
+      "Video"
+    ]
+  },
+  "Version": "4.23.0",
+  "CreatedBy": "4.23.0"
+}

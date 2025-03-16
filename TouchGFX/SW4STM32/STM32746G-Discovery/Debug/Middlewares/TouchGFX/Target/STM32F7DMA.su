@@ -1,0 +1,12 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/DMA.hpp:246:18:virtual void touchgfx::DMA_Interface::flush()	0	static
+../../../Gui/target/STM32F7DMA.hpp:97:18:virtual void STM32F7DMA::signalDMAInterrupt()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:47:13:void DMA2D_XferErrorCallback(DMA2D_HandleTypeDef*)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:77:16:virtual touchgfx::BlitOperations STM32F7DMA::getBlitCaps()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:261:6:virtual void STM32F7DMA::start()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:64:6:virtual void STM32F7DMA::initialize()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:58:1:STM32F7DMA::~STM32F7DMA()	8	static,ignoring_inline_asm
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:58:1:virtual STM32F7DMA::~STM32F7DMA()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:96:6:virtual void STM32F7DMA::setupDataCopy(const touchgfx::BlitOp&)	40	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:42:13:void DMA2D_XferCpltCallback(DMA2D_HandleTypeDef*)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:197:6:virtual void STM32F7DMA::setupDataFill(const touchgfx::BlitOp&)	32	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7DMA.cpp:54:1:STM32F7DMA::STM32F7DMA()	16	static

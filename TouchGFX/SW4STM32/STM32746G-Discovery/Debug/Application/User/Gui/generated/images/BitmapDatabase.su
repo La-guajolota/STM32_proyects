@@ -1,0 +1,2 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/generated/images/src/BitmapDatabase.cpp:298:39:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/generated/images/src/BitmapDatabase.cpp:302:12:uint16_t BitmapDatabase::getInstanceSize()	0	static

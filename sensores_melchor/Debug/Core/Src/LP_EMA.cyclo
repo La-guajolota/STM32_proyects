@@ -1,0 +1,3 @@
+../Core/Src/LP_EMA.c:3:6:EMA_init	1
+../Core/Src/LP_EMA.c:10:6:EMA_setalpha	3
+../Core/Src/LP_EMA.c:23:7:EMA_update	1

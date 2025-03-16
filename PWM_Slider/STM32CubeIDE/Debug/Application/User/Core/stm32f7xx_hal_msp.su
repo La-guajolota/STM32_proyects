@@ -1,0 +1,16 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:66:6:HAL_MspInit	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:91:6:HAL_CRC_MspInit	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:113:6:HAL_CRC_MspDeInit	0	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:135:6:HAL_DMA2D_MspInit	16	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:160:6:HAL_DMA2D_MspDeInit	0	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:185:6:HAL_I2C_MspInit	168	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:231:6:HAL_I2C_MspDeInit	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:262:6:HAL_LTDC_MspInit	192	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:379:6:HAL_LTDC_MspDeInit	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:448:6:HAL_QSPI_MspInit	64	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:511:6:HAL_QSPI_MspDeInit	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:548:6:HAL_TIM_Base_MspInit	8	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:564:6:HAL_TIM_MspPostInit	32	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:596:6:HAL_TIM_Base_MspDeInit	0	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:720:6:HAL_SDRAM_MspInit	48	static
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/stm32f7xx_hal_msp.c:806:6:HAL_SDRAM_MspDeInit	8	static

@@ -1,0 +1,12 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:73:22:long int IdleTaskHook(void*)	2
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:17:6:static void touchgfx::OSWrappers::initialize()	2
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:24:6:static void touchgfx::OSWrappers::takeFrameBufferSemaphore()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:28:6:static void touchgfx::OSWrappers::giveFrameBufferSemaphore()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:33:6:static void touchgfx::OSWrappers::tryTakeFrameBufferSemaphore()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:38:6:static void touchgfx::OSWrappers::giveFrameBufferSemaphoreFromISR()	2
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:47:6:static void touchgfx::OSWrappers::signalVSync()	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:59:6:static void touchgfx::OSWrappers::waitForVSync()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:68:6:static void touchgfx::OSWrappers::taskDelay(uint16_t)	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:89:10:void vApplicationStackOverflowHook(TaskHandle_t, signed char*)	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:95:10:void vApplicationMallocFailedHook(TaskHandle_t, signed char*)	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.cpp:101:10:void vApplicationIdleHook()	1

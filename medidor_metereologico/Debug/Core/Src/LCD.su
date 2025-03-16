@@ -1,0 +1,14 @@
+../Core/Src/LCD.c:37:6:LCD_Start	8	static
+../Core/Src/LCD.c:60:6:LCD_ClearDisplay	8	static
+../Core/Src/LCD.c:65:6:LCD_Position	16	static
+../Core/Src/LCD.c:92:6:LCD_PrintHex8	16	static
+../Core/Src/LCD.c:104:6:LCD_PrintHex16	16	static
+../Core/Src/LCD.c:116:6:LCD_PrintHex32	24	static
+../Core/Src/LCD.c:137:6:LCD_PrintNumber	32	static
+../Core/Src/LCD.c:180:6:LCD_PrintString	24	static
+../Core/Src/LCD.c:198:6:LCD_PutChar	16	static
+../Core/Src/LCD.c:278:13:LCD_Write	16	static
+../Core/Src/LCD.c:290:13:LCD_WriteControl	16	static
+../Core/Src/LCD.c:307:13:LCD_WriteData	16	static
+../Core/Src/LCD.c:325:13:LCD_WriteControlNibble	16	static
+../Core/Src/LCD.c:339:13:LCD_WriteDataNibble	16	static

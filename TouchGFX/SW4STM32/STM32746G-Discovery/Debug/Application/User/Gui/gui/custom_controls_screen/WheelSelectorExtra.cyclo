@@ -1,0 +1,48 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:69:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:161:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:416:22:virtual uint16_t touchgfx::TextArea::getType() const	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:68:13:touchgfx::FadeAnimator<T>::~FadeAnimator() [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:67:13:touchgfx::MoveAnimator<T>::~MoveAnimator() [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:112:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:126:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:142:18:bool touchgfx::FadeAnimator<T>::isRunning() const [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:155:18:bool touchgfx::MoveAnimator<T>::isMoveAnimationRunning() const [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:113:18:void touchgfx::FadeAnimator<T>::setFadeAnimationDelay(uint16_t) [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:127:22:uint16_t touchgfx::FadeAnimator<T>::getFadeAnimationDelay() const [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:156:18:bool touchgfx::FadeAnimator<T>::isFadeAnimationRunning() const [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:141:18:bool touchgfx::MoveAnimator<T>::isRunning() const [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:67:13:touchgfx::MoveAnimator<T>::~MoveAnimator() [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:68:13:touchgfx::FadeAnimator<T>::~FadeAnimator() [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:28:1:WheelSelectorExtra::~WheelSelectorExtra()	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:28:1:virtual WheelSelectorExtra::~WheelSelectorExtra()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:60:6:virtual void WheelSelectorExtra::setTextColor(touchgfx::colortype, touchgfx::colortype, touchgfx::colortype, int, int)	2
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:71:6:virtual void WheelSelectorExtra::moveText(int)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	3
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:142:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:57:5:touchgfx::TextArea::TextArea()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:23:1:WheelSelectorExtra::WheelSelectorExtra()	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:110:6:void WheelSelectorExtra::adjustBottomCutOff()	4
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:32:6:void WheelSelectorExtra::setupDatePickerWheelDay(int, int, int, int, TEXTS, TEXTS, TEXTS, TEXTS)	2
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:244:10:void touchgfx::MoveAnimator<T>::nextMoveAnimationStep() [with T = touchgfx::TextArea]	7
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:230:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = touchgfx::TextArea]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:181:10:void touchgfx::MoveAnimator<T>::startMoveAnimation(int16_t, int16_t, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation) [with T = touchgfx::TextArea]	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:86:6:virtual void WheelSelectorExtra::animateMoveText(int, int, touchgfx::EasingEquation)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:234:10:void touchgfx::FadeAnimator<T>::nextFadeAnimationStep() [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	7
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:220:18:void touchgfx::FadeAnimator<T>::handleTickEvent() [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:176:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::MoveAnimator<touchgfx::TextArea>]	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/custom_controls_screen/WheelSelectorExtra.cpp:99:6:void WheelSelectorExtra::fadeExtraText(int, uint8_t, uint16_t)	1

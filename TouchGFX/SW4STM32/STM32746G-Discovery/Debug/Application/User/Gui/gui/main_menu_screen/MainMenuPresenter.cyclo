@@ -1,0 +1,10 @@
+../../../Gui/gui/include/gui/model/ModelListener.hpp:51:18:virtual void ModelListener::timeUpdated(Time)	1
+../../../Gui/gui/include/gui/model/ModelListener.hpp:55:18:virtual void ModelListener::screenSaverMinorTick()	1
+../../../Gui/gui/include/gui/model/ModelListener.hpp:56:18:virtual void ModelListener::screenSaverMajorTick()	1
+../../../Gui/gui/include/gui/main_menu_screen/MainMenuPresenter.hpp:55:13:MainMenuPresenter::~MainMenuPresenter()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/main_menu_screen/MainMenuPresenter.cpp:33:6:virtual void MainMenuPresenter::deactivate()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/main_menu_screen/MainMenuPresenter.cpp:28:6:virtual void MainMenuPresenter::activate()	1
+../../../Gui/gui/include/gui/main_menu_screen/MainMenuPresenter.hpp:55:13:virtual MainMenuPresenter::~MainMenuPresenter()	1
+../../../Gui/gui/include/gui/main_menu_screen/MainMenuPresenter.hpp:55:13:virtual void* MainMenuPresenter::_ZThn4_N17MainMenuPresenterD1Ev()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/main_menu_screen/MainMenuPresenter.cpp:22:1:MainMenuPresenter::MainMenuPresenter(MainMenuView&)	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/main_menu_screen/MainMenuPresenter.cpp:38:6:void MainMenuPresenter::demoSelected(DemoID, uint8_t)	5

@@ -1,0 +1,5 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Core/Src/stm32f7xx_hal_timebase_tim.c:56:19:HAL_InitTick	40	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Core/Src/stm32f7xx_hal_timebase_tim.c:120:6:HAL_SuspendTick	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Core/Src/stm32f7xx_hal_timebase_tim.c:131:6:HAL_ResumeTick	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Core/Src/stm32f7xx_hal_timebase_tim.c:145:6:HAL_TIM_PeriodElapsedCallback	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Core/Src/stm32f7xx_hal_timebase_tim.c:154:6:TIM6_DAC_IRQHandler	0	static

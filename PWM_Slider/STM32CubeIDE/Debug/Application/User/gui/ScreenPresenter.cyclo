@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/screen_screen/ScreenPresenter.hpp:28:13:ScreenPresenter::~ScreenPresenter()	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenPresenter.cpp:10:6:virtual void ScreenPresenter::activate()	1
+../../TouchGFX/gui/include/gui/screen_screen/ScreenPresenter.hpp:28:13:virtual ScreenPresenter::~ScreenPresenter()	1
+../../TouchGFX/gui/include/gui/screen_screen/ScreenPresenter.hpp:28:13:virtual void* ScreenPresenter::_ZThn4_N15ScreenPresenterD1Ev()	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenPresenter.cpp:4:1:ScreenPresenter::ScreenPresenter(ScreenView&)	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/TouchGFX/gui/src/screen_screen/ScreenPresenter.cpp:20:6:void ScreenPresenter::circulo_pwm_fun(int)	1

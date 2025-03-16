@@ -1,0 +1,4 @@
+../Core/Src/ACS712.c:64:10:analogRead	2
+../Core/Src/ACS712.c:76:6:ACS712_Frequency	15
+../Core/Src/ACS712.c:122:6:ACS712_RMS	6
+../Core/Src/ACS712.c:160:6:ACS712_sense	1

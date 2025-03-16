@@ -1,0 +1,18 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	1
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationGraph.hpp:44:13:EasingEquationGraph::~EasingEquationGraph()	1
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationGraph.hpp:44:13:virtual EasingEquationGraph::~EasingEquationGraph()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationGraph.cpp:24:1:EasingEquationGraph::EasingEquationGraph()	2
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationGraph.cpp:29:6:void EasingEquationGraph::setup(int, int, touchgfx::colortype, uint16_t)	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationGraph.cpp:43:6:void EasingEquationGraph::setRange(int, int, int, int)	1

@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/CMSIS/DSP/Include/dsp/svm_functions.h:65:27:arm_exponent_f32	2
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/CMSIS/DSP/Source/SVMFunctions/arm_svm_polynomial_predict_f32.c:464:6:arm_svm_polynomial_predict_f32	3

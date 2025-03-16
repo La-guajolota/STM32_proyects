@@ -1,0 +1,6 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:377:13:prvInsertBlockIntoFreeList	6
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:113:7:pvPortMalloc	15
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:263:6:vPortFree	4
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:311:8:xPortGetFreeHeapSize	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:317:8:xPortGetMinimumEverFreeHeapSize	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:323:6:vPortInitialiseBlocks	1

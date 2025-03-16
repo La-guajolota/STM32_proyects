@@ -1,0 +1,21 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:111:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphDots.cpp:76:6:virtual touchgfx::Rect GraphDots::getMinimalRectContainingIndices(int, int) const	40	static
+../../../Gui/gui/include/gui/graph_screen/GraphDots.hpp:40:7:GraphDots::~GraphDots()	8	static
+../../../Gui/gui/include/gui/graph_screen/GraphDots.hpp:40:7:virtual GraphDots::~GraphDots()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:191:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator*(const touchgfx::CWRUtil::Q15&) const	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:558:16:static touchgfx::CWRUtil::Q15 touchgfx::CWRUtil::sine(int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphDots.cpp:23:1:GraphDots::GraphDots()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphDots.cpp:28:6:void GraphDots::setDotShape(int, int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphDots.cpp:34:6:virtual bool GraphDots::drawCanvasWidget(const touchgfx::Rect&) const	224	static

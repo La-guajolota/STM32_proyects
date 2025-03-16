@@ -1,0 +1,13 @@
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:736:16:QSPI_AutoPollingMemReady.constprop	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:690:16:QSPI_WriteEnable.constprop	2
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:179:9:BSP_QSPI_Read	3
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:225:9:BSP_QSPI_Write	7
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:299:9:BSP_QSPI_Erase_Block	3
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:341:9:BSP_QSPI_Erase_Chip	3
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:381:9:BSP_QSPI_GetStatus	5
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:434:9:BSP_QSPI_GetInfo	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:450:9:BSP_QSPI_EnableMemoryMappedMode	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:495:13:BSP_QSPI_MspInit	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:109:9:BSP_QSPI_Init	11
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:561:13:BSP_QSPI_MspDeInit	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_qspi.c:156:9:BSP_QSPI_DeInit	2

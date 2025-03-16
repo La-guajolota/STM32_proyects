@@ -1,0 +1,4 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smartcard_ex.c:83:6:HAL_SMARTCARDEx_BlockLength_Config	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smartcard_ex.c:95:6:HAL_SMARTCARDEx_TimeOut_Config	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smartcard_ex.c:106:19:HAL_SMARTCARDEx_EnableReceiverTimeOut	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smartcard_ex.c:136:19:HAL_SMARTCARDEx_DisableReceiverTimeOut	3

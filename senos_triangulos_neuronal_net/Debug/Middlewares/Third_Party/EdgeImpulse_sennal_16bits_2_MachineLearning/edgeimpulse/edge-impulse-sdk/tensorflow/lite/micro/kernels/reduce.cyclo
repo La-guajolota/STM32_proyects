@@ -1,0 +1,13 @@
+C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256\tools\arm-none-eabi\include\c++\12.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:31:7:void* tflite::InitReduce(TfLiteContext*, const char*, size_t)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:35:14:TfLiteStatus tflite::PrepareMax(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:40:14:TfLiteStatus tflite::PrepareMin(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:45:14:TfLiteStatus tflite::PrepareMeanOrSum(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:50:14:TfLiteStatus tflite::EvalMean(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:55:14:TfLiteStatus tflite::EvalMax(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:60:14:TfLiteStatus tflite::EvalMin(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:65:14:TfLiteStatus tflite::EvalSum(TfLiteContext*, TfLiteNode*)	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:70:20:TfLiteRegistration tflite::Register_MEAN()	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:74:20:TfLiteRegistration tflite::Register_REDUCE_MAX()	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:78:20:TfLiteRegistration tflite::Register_REDUCE_MIN()	1
+../Middlewares/Third_Party/EdgeImpulse_sennal_16bits_2_MachineLearning/edgeimpulse/edge-impulse-sdk/tensorflow/lite/micro/kernels/reduce.cpp:82:20:TfLiteRegistration tflite::Register_SUM()	1

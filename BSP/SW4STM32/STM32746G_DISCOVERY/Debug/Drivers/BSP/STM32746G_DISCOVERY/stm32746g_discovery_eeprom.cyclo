@@ -1,0 +1,7 @@
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:143:10:BSP_EEPROM_Init	2
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:166:9:BSP_EEPROM_DeInit	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:442:13:BSP_EEPROM_TIMEOUT_UserCallback	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:187:10:BSP_EEPROM_ReadBuffer	2
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:426:10:BSP_EEPROM_WaitEepromStandbyState	2
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:234:10:BSP_EEPROM_WritePage	2
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_eeprom.c:269:10:BSP_EEPROM_WriteBuffer	13

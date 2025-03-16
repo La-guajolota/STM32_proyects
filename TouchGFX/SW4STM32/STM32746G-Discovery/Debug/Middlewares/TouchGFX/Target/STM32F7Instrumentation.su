@@ -1,0 +1,8 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp:122:22:virtual uint32_t touchgfx::MCUInstrumentation::getCCConsumed()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp:136:18:virtual void touchgfx::MCUInstrumentation::setCCConsumed(uint32_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7Instrumentation.cpp:61:14:virtual unsigned int touchgfx::STM32F7Instrumentation::getElapsedUS(unsigned int, unsigned int, unsigned int)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7Instrumentation.cpp:66:14:virtual unsigned int touchgfx::STM32F7Instrumentation::getCPUCycles()	0	static
+../../../Gui/target/STM32F7Instrumentation.hpp:27:7:touchgfx::STM32F7Instrumentation::~STM32F7Instrumentation()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7Instrumentation.cpp:29:6:virtual void touchgfx::STM32F7Instrumentation::init()	48	static
+../../../Gui/target/STM32F7Instrumentation.hpp:27:7:virtual touchgfx::STM32F7Instrumentation::~STM32F7Instrumentation()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/target/STM32F7Instrumentation.cpp:71:6:virtual void touchgfx::STM32F7Instrumentation::setMCUActive(bool)	16	static

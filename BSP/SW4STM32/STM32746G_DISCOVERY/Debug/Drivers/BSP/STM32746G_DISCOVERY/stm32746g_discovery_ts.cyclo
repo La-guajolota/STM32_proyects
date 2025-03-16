@@ -1,0 +1,8 @@
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:131:9:BSP_TS_Init	2
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:161:9:BSP_TS_DeInit	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:171:9:BSP_TS_ITConfig	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:196:9:BSP_TS_ITGetStatus	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:327:9:BSP_TS_Get_GestureId	9
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:207:9:BSP_TS_GetState	15
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:371:6:BSP_TS_ITClear	1
+E:/Sexto_sem/MCU_avanzados/BSP/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_ts.c:389:9:BSP_TS_ResetTouchData	2

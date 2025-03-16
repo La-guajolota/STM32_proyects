@@ -1,0 +1,8 @@
+../../../Gui/gui/include/gui/model/ModelListener.hpp:51:18:virtual void ModelListener::timeUpdated(Time)	1
+../../../Gui/gui/include/gui/model/ModelListener.hpp:56:18:virtual void ModelListener::screenSaverMajorTick()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/product_presenter_screen/ProductPresenterPresenter.cpp:29:1:ProductPresenterPresenter::~ProductPresenterPresenter()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/product_presenter_screen/ProductPresenterPresenter.cpp:33:6:virtual void ProductPresenterPresenter::activate()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/product_presenter_screen/ProductPresenterPresenter.cpp:42:6:virtual void ProductPresenterPresenter::screenSaverMinorTick()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/product_presenter_screen/ProductPresenterPresenter.cpp:29:1:virtual ProductPresenterPresenter::~ProductPresenterPresenter()	1
+../../../Gui/gui/include/gui/product_presenter_screen/ProductPresenterPresenter.hpp:33:13:virtual void* ProductPresenterPresenter::_ZThn4_N25ProductPresenterPresenterD1Ev()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/product_presenter_screen/ProductPresenterPresenter.cpp:23:1:ProductPresenterPresenter::ProductPresenterPresenter(ProductPresenterView&)	1

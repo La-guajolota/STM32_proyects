@@ -1,0 +1,9 @@
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:155:6:LCD_LOG_DeInit	1
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:141:6:LCD_LOG_Init	1
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:177:6:LCD_LOG_SetHeader	1
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:201:6:LCD_LOG_SetFooter	1
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:225:6:LCD_LOG_ClearTextZone	2
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:319:6:LCD_LOG_UpdateDisplay	5
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:243:1:__io_putchar	11
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:367:13:LCD_LOG_ScrollBack	9
+E:/Sexto_sem/MCU_avanzados/BSP/Utilities/Log/lcd_log.c:439:13:LCD_LOG_ScrollForward	7

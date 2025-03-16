@@ -1,0 +1,10 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:161:6:ft5336_Reset	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:407:9:ft5336_TS_ITStatus	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:173:10:ft5336_ReadID	4
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:222:9:ft5336_TS_DetectTouch	2
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:254:6:ft5336_TS_GetXY	3
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:375:6:ft5336_TS_EnableIT	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:390:6:ft5336_TS_DisableIT	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:205:6:ft5336_TS_Start	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:420:6:ft5336_TS_ClearIT	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Drivers/BSP/Components/ft5336/ft5336.c:145:6:ft5336_Init	2

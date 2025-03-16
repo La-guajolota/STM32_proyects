@@ -1,0 +1,28 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:68:6:virtual void SwipeContainer::setSwipeCutoff(uint16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:52:6:virtual void SwipeContainer::add(touchgfx::Drawable&)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:115:6:virtual void SwipeContainer::handleClickEvent(const touchgfx::ClickEvent&)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:189:6:virtual void SwipeContainer::handleGestureEvent(const touchgfx::GestureEvent&)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:26:1:SwipeContainer::SwipeContainer()	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:63:6:void SwipeContainer::setEndSwipeElasticWidth(uint16_t)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:73:6:void SwipeContainer::setDotIndicatorBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:78:6:void SwipeContainer::setDotIndicatorXY(uint16_t, uint16_t)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:83:6:void SwipeContainer::setDotIndicatorXYWithCenteredX(uint16_t, uint16_t)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:224:6:void SwipeContainer::adjustScreens()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:88:6:void SwipeContainer::setSelectedScreen(uint8_t)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:165:6:virtual void SwipeContainer::handleDragEvent(const touchgfx::DragEvent&)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:229:6:void SwipeContainer::animateSwipeCancelledLeft()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:251:6:void SwipeContainer::animateSwipeCancelledRight()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:273:6:void SwipeContainer::animateLeft()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:303:6:void SwipeContainer::animateRight()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:95:6:virtual void SwipeContainer::handleTickEvent()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:46:1:SwipeContainer::~SwipeContainer()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/SwipeContainer.cpp:46:1:virtual SwipeContainer::~SwipeContainer()	8	static

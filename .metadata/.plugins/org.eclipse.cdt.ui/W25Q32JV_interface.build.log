@@ -1,0 +1,10 @@
+15:16:03 **** Incremental Build of configuration Debug for project W25Q32JV_interface ****
+make -j12 all 
+arm-none-eabi-size  W25Q32JV_interface.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6188	     12	   1660	   7860	   1eb4	W25Q32JV_interface.elf
+Finished building: default.size.stdout
+ 
+
+15:16:04 Build Finished. 0 errors, 0 warnings. (took 83ms)
+

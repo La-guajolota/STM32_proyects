@@ -1,0 +1,5 @@
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/main.c:751:6:StartDefaultTask	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/main.c:239:6:SystemClock_Config	1
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/main.c:130:5:main	3
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/main.c:807:6:HAL_TIM_PeriodElapsedCallback	2
+E:/Sexto_sem/MCU_avanzados/PWM_Slider/Core/Src/main.c:824:6:Error_Handler	1

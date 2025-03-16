@@ -1,0 +1,8 @@
+../../../Gui/gui/include/gui/model/ModelListener.hpp:51:18:virtual void ModelListener::timeUpdated(Time)	1
+../../../Gui/gui/include/gui/model/ModelListener.hpp:55:18:virtual void ModelListener::screenSaverMinorTick()	1
+../../../Gui/gui/include/gui/model/ModelListener.hpp:56:18:virtual void ModelListener::screenSaverMajorTick()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationPresenter.cpp:29:1:EasingEquationPresenter::~EasingEquationPresenter()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationPresenter.cpp:33:6:virtual void EasingEquationPresenter::activate()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationPresenter.cpp:29:1:virtual EasingEquationPresenter::~EasingEquationPresenter()	1
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationPresenter.hpp:33:13:virtual void* EasingEquationPresenter::_ZThn4_N23EasingEquationPresenterD1Ev()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationPresenter.cpp:23:1:EasingEquationPresenter::EasingEquationPresenter(EasingEquationView&)	1

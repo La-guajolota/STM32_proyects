@@ -1,6 +1,6 @@
 ################################################################################
 # Automatically-generated file. Do not edit!
-# Toolchain: GNU Tools for STM32 (12.3.rel1)
+# Toolchain: GNU Tools for STM32 (13.3.rel1)
 ################################################################################
 
 -include ../makefile.init
@@ -60,8 +60,8 @@ all: main-build
 main-build: line_follower_speedy.elf secondary-outputs
 
 # Tool invocations
-line_follower_speedy.elf line_follower_speedy.map: $(OBJS) $(USER_OBJS) /media/adrian/sd_linux/MCUs/SMT32mcus/line_follower_speedy/STM32F411CEUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "line_follower_speedy.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/media/adrian/sd_linux/MCUs/SMT32mcus/line_follower_speedy/STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="line_follower_speedy.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+line_follower_speedy.elf line_follower_speedy.map: $(OBJS) $(USER_OBJS) /media/adrian/sd_linux/MCUs/STM32mcus/line_follower_speedy/STM32F411CEUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "line_follower_speedy.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/media/adrian/sd_linux/MCUs/STM32mcus/line_follower_speedy/STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="line_follower_speedy.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

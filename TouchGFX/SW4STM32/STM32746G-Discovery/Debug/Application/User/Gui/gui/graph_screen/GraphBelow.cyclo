@@ -1,0 +1,17 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	1
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:111:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphBelow.cpp:67:6:virtual touchgfx::Rect GraphBelow::getMinimalRectContainingIndices(int, int) const	7
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	3
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphBelow.cpp:23:1:GraphBelow::~GraphBelow()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphBelow.cpp:23:1:virtual GraphBelow::~GraphBelow()	1
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/graph_screen/GraphBelow.cpp:27:6:virtual bool GraphBelow::drawCanvasWidget(const touchgfx::Rect&) const	9

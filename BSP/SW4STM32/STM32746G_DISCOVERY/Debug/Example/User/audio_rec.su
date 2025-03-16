@@ -1,0 +1,4 @@
+E:/Sexto_sem/MCU_avanzados/BSP/Src/audio_rec.c:64:6:AudioRec_demo	24	static
+E:/Sexto_sem/MCU_avanzados/BSP/Src/audio_rec.c:197:6:BSP_AUDIO_IN_TransferComplete_CallBack	0	static
+E:/Sexto_sem/MCU_avanzados/BSP/Src/audio_rec.c:208:6:BSP_AUDIO_IN_HalfTransfer_CallBack	0	static
+E:/Sexto_sem/MCU_avanzados/BSP/Src/audio_rec.c:219:6:BSP_AUDIO_IN_Error_CallBack	8	static

@@ -1,0 +1,71 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Screen.hpp:127:18:virtual void touchgfx::Screen::setupScreen()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Screen.hpp:140:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Screen.hpp:153:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Screen.hpp:198:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Screen.hpp:213:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:69:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:161:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:416:22:virtual uint16_t touchgfx::TextArea::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:34:7:touchgfx::TextAreaWithWildcardBase::~TextAreaWithWildcardBase()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:181:22:virtual uint16_t touchgfx::TextAreaWithOneWildcard::getType() const	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/View.hpp:39:7:touchgfx::View<EasingEquationPresenter>::~View()	0	static
+../../../Gui/gui/include/gui/common/DemoView.hpp:34:7:DemoView<EasingEquationPresenter>::~DemoView()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:84:6:virtual void EasingEquationView::setupScreen()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:touchgfx::Callback<EasingEquationView, EasingEquationsInOrOut>::~Callback()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:touchgfx::Callback<EasingEquationView, const EasingEquationSelection&>::~Callback()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:touchgfx::Callback<DemoView<EasingEquationPresenter>, const touchgfx::AbstractButton&, void, void>::~Callback()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:75:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	0	static
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationSelector.hpp:31:7:EasingEquationSelector::~EasingEquationSelector()	16	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = EasingEquationView; T1 = EasingEquationsInOrOut]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = EasingEquationView; T1 = EasingEquationsInOrOut]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = EasingEquationView; T1 = const EasingEquationSelection&]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = EasingEquationView; T1 = const EasingEquationSelection&]	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = DemoView<EasingEquationPresenter>; T1 = const touchgfx::AbstractButton&]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = DemoView<EasingEquationPresenter>; T1 = const touchgfx::AbstractButton&]	0	static
+../../../Gui/gui/include/gui/common/DemoView.hpp:60:10:void DemoView<T>::gotoMenuClickedHandler(const touchgfx::AbstractButton&) [with T = EasingEquationPresenter]	0	static
+../../../Gui/gui/include/gui/common/DemoView.hpp:65:18:void DemoView<T>::updateProcessorLoad(uint8_t) [with T = EasingEquationPresenter]	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/View.hpp:39:7:virtual touchgfx::View<EasingEquationPresenter>::~View()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:34:7:virtual touchgfx::TextAreaWithWildcardBase::~TextAreaWithWildcardBase()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:75:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:virtual touchgfx::Callback<EasingEquationView, const EasingEquationSelection&>::~Callback()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:virtual touchgfx::Callback<EasingEquationView, EasingEquationsInOrOut>::~Callback()	8	static
+../../../Gui/gui/include/gui/common/DemoView.hpp:34:7:virtual DemoView<EasingEquationPresenter>::~DemoView()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:469:8:virtual touchgfx::Callback<DemoView<EasingEquationPresenter>, const touchgfx::AbstractButton&, void, void>::~Callback()	8	static
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationSelector.hpp:31:7:virtual EasingEquationSelector::~EasingEquationSelector()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:128:6:virtual void EasingEquationView::handleTickEvent()	24	static
+../../../Gui/gui/include/gui/common/DemoView.hpp:34:7:virtual void* DemoView<EasingEquationPresenter>::_ZThn64_N8DemoViewI23EasingEquationPresenterED1Ev()	0	static
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationGraph.hpp:44:13:EasingEquationGraph::~EasingEquationGraph()	8	static
+../../../Gui/gui/include/gui/easing_equation_screen/EasingEquationGraph.hpp:44:13:virtual EasingEquationGraph::~EasingEquationGraph()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:80:1:EasingEquationView::~EasingEquationView()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:80:1:virtual EasingEquationView::~EasingEquationView()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:44:5:touchgfx::Widget::Widget()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TypedText.hpp:205:10:void touchgfx::TypedText::assertValid() const	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TypedText.hpp:120:33:const touchgfx::Unicode::UnicodeChar* touchgfx::TypedText::getText() const	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:101:21:virtual int16_t touchgfx::TextAreaWithOneWildcard::getTextHeight()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TypedText.hpp:135:17:const touchgfx::Font* touchgfx::TypedText::getFont() const	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:167:22:virtual uint16_t touchgfx::TextAreaWithOneWildcard::getTextWidth() const	24	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:142:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	24	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:116:18:virtual void touchgfx::TextAreaWithOneWildcard::draw(const touchgfx::Rect&) const	80	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:57:5:touchgfx::TextArea::TextArea()	8	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Image.hpp:50:5:touchgfx::Image::Image(const touchgfx::Bitmap&)	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:119:6:void EasingEquationView::updateEasingEquation()	16	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:101:6:void EasingEquationView::inOrOutSelected(EasingEquationsInOrOut)	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:92:6:void EasingEquationView::easingEquationSelected(const EasingEquationSelection&)	24	static
+../../../Gui/gui/include/gui/common/DemoView.hpp:37:5:DemoView<T>::DemoView() [with T = EasingEquationPresenter]	32	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/easing_equation_screen/EasingEquationView.cpp:24:1:EasingEquationView::EasingEquationView()	72	static

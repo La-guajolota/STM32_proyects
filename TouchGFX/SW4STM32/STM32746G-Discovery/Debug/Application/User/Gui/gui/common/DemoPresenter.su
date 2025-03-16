@@ -1,0 +1,12 @@
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/Presenter.hpp:42:18:virtual void touchgfx::Presenter::activate()	0	static
+../../../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/Presenter.hpp:54:18:virtual void touchgfx::Presenter::deactivate()	0	static
+../../../Gui/gui/include/gui/model/ModelListener.hpp:51:18:virtual void ModelListener::timeUpdated(Time)	8	static
+../../../Gui/gui/include/gui/model/ModelListener.hpp:55:18:virtual void ModelListener::screenSaverMinorTick()	0	static
+../../../Gui/gui/include/gui/model/ModelListener.hpp:56:18:virtual void ModelListener::screenSaverMajorTick()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/DemoPresenter.cpp:31:6:virtual void DemoPresenter::mcuLoadUpdated(uint8_t)	0	static
+../../../Gui/gui/include/gui/common/DemoPresenter.hpp:29:7:DemoPresenter::~DemoPresenter()	0	static
+../../../Gui/gui/include/gui/common/DemoPresenter.hpp:29:7:virtual DemoPresenter::~DemoPresenter()	8	static
+../../../Gui/gui/include/gui/common/DemoPresenter.hpp:29:7:virtual void* DemoPresenter::_ZThn4_N13DemoPresenterD1Ev()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/DemoPresenter.cpp:21:1:DemoPresenter::DemoPresenter(DemoViewInterface&)	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/DemoPresenter.cpp:26:6:void DemoPresenter::backOptionSelected()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/common/DemoPresenter.cpp:36:6:void DemoPresenter::viewStartupDone()	0	static

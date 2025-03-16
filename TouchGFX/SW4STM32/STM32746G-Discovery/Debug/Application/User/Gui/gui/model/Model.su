@@ -1,0 +1,4 @@
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/model/Model.cpp:35:1:Model::Model()	8	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/model/Model.cpp:51:6:void Model::tick()	24	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/model/Model.cpp:105:6:void Model::screenSaverMinorTick()	0	static
+E:/Sexto_sem/MCU_avanzados/TouchGFX/Gui/gui/src/model/Model.cpp:110:6:void Model::screenSaverMajorTick()	0	static
