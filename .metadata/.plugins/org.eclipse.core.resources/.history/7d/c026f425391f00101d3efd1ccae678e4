@@ -1,0 +1,28 @@
+/*
+ * gui_backend.h
+ *
+ *  Created on: Apr 21, 2025
+ *      Author: Adrián Silva Palafox
+ */
+
+#ifndef INC_GUI_BACKEND_H_
+#define INC_GUI_BACKEND_H_
+
+#include <stdint.h>
+#include <stdbool.h>
+
+// User's encoder events
+typedef enum{
+	IDLE_EVENT,
+	CLOCK_WISE_EVENT,
+	ANTI_CLCOK_WISE_EVENT,
+	PULSE_BUTTON_EVENT,
+	NUM_EVENTS
+}encoder_event_t;
+
+// UI states
+typedef enum{
+
+}ui_states_t;
+
+#endif /* INC_GUI_BACKEND_H_ */

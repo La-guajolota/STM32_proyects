@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;reflow_oven/Core/Inc/max6675&apos; to &apos;max6675.h&apos;" description="Rename resource &apos;max6675&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/max6675" name="max6675.h" stamp="1745286599974" updateReferences="true"/>
+</session>
