@@ -1,0 +1,31 @@
+!SESSION 2025-06-03 09:32:42.889 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-03 09:33:20.949
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-03 09:33:20.950
+!MESSAGE Log4j2 initialized with config file /media/adrian/sd_linux/MCUs/STM32mcus/PWM_Slider/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-03 09:33:23.403
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-06-03 09:34:29.404 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  /media/adrian/sd_linux/MCUs/STM32mcus/PWM_Slider/STM32F746G_DISCO.ioc
+Command-line arguments:  -os linux -ws gtk -arch x86_64 /media/adrian/sd_linux/MCUs/STM32mcus/PWM_Slider/STM32F746G_DISCO.ioc
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-03 09:34:34.020
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-03 09:34:34.021
+!MESSAGE Log4j2 initialized with config file /media/adrian/sd_linux/MCUs/STM32mcus/PWM_Slider/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-03 09:34:36.214
+!MESSAGE Started RMI Server, listening on port 41337

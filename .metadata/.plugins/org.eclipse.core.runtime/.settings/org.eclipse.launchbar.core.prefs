@@ -1,8 +1,10 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25Q32JV_interface Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25Q32JV_interface Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25Q32JV_interface Debug (2)
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_transiver_ejemplo Debug
 eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_transiver_ejemplo\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_transiver_ejemplo\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25Q32JV_interface\ Debug\ (1)/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25Q32JV_interface\ Debug\ (1)/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25Q32JV_interface\ Debug\ (2)/activeLaunchMode=run
@@ -12,7 +14,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ethernet_1\ Debug/activeLaunchM
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ethernet_1\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:line_follower_speedy/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:line_follower_speedy/activeLaunchTarget=null\:---
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:reflow_oven/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:reflow_oven/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:testBLUE\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:testBLUE\ Debug/activeLaunchTarget=null\:---
 org.eclipse.launchbar.core.descriptorType.default\:W25Q32JV_interface\ Debug\ (1)/activeLaunchMode=run

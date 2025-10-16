@@ -1,0 +1,10 @@
+08:22:44 **** Incremental Build of configuration Debug for project CAN_transiver_ejemplo ****
+make -j12 all 
+arm-none-eabi-size  CAN_transiver_ejemplo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12852	     20	   1764	  14636	   392c	CAN_transiver_ejemplo.elf
+Finished building: default.size.stdout
+ 
+
+08:22:45 Build Finished. 0 errors, 0 warnings. (took 245ms)
+
