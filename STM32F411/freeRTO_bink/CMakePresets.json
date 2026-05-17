@@ -1,0 +1,57 @@
+{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "default",
+            "hidden": true,
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build/${presetName}",
+            "toolchainFile": "cmake/gcc-arm-none-eabi.cmake",
+            "cacheVariables": {
+                "CMSIS_Dvendor": "STMicroelectronics:13",
+                "CMSIS_Dname": "STM32F411CEU7",
+                "CMSIS_Dcore": "Cortex-M4",
+                "CMSIS_Dtz": "NO_TZ",
+                "CMSIS_Dfpu": "SP_FPU",
+                "CMSIS_Ddsp": "DSP",
+                "CMSIS_Dmve": "NO_MVE",
+                "CMSIS_Dmpu": "MPU",
+                "CMSIS_Dendian": "Little-endian",
+                "CMSIS_Dsecure": "",
+                "CMSIS_Tcompiler": "GCC"
+            }
+        },
+        {
+            "name": "Debug",
+            "inherits": "default",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CUBE_CMAKE_C_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-std=gnu11;-g3;-DDEBUG;-DUSE_HAL_DRIVER;-DSTM32F411xE;-O0;-ffunction-sections;-fdata-sections;-Wall;-fstack-usage;-fcyclomatic-complexity",
+                "CUBE_CMAKE_CXX_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-std=gnu++14;-g3;-O0;-ffunction-sections;-fdata-sections;-fno-exceptions;-fno-rtti;-fno-use-cxa-atexit;-Wall;-fstack-usage;-fcyclomatic-complexity",
+                "CUBE_CMAKE_ASM_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-g3;-DDEBUG;-I../Core/Inc;-I../Drivers/STM32F4xx_HAL_Driver/Inc;-I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy;-I../Middlewares/Third_Party/FreeRTOS/Source/include;-I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2;-I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F;-I../Drivers/CMSIS/Device/ST/STM32F4xx/Include;-I../Drivers/CMSIS/Include;-x;assembler-with-cpp",
+                "CUBE_CMAKE_EXE_LINKER_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-TSTM32F411CEUX_FLASH.ld;--specs=nosys.specs;-Wl,-Map=freeRTO_bink.map;-Wl,--gc-sections;-static"
+            }
+        },
+        {
+            "name": "Release",
+            "inherits": "default",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release",
+                "CUBE_CMAKE_C_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-std=gnu11;-DUSE_HAL_DRIVER;-DSTM32F411xE;-Os;-ffunction-sections;-fdata-sections;-Wall;-fstack-usage;-fcyclomatic-complexity",
+                "CUBE_CMAKE_CXX_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-std=gnu++14;-Os;-ffunction-sections;-fdata-sections;-fno-exceptions;-fno-rtti;-fno-use-cxa-atexit;-Wall;-fstack-usage;-fcyclomatic-complexity",
+                "CUBE_CMAKE_ASM_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-I../Core/Inc;-I../Drivers/STM32F4xx_HAL_Driver/Inc;-I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy;-I../Middlewares/Third_Party/FreeRTOS/Source/include;-I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2;-I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F;-I../Drivers/CMSIS/Device/ST/STM32F4xx/Include;-I../Drivers/CMSIS/Include;-x;assembler-with-cpp",
+                "CUBE_CMAKE_EXE_LINKER_FLAGS": "-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb;--specs=nano.specs;-mcpu=cortex-m4;-TSTM32F411CEUX_FLASH.ld;--specs=nosys.specs;-Wl,-Map=freeRTO_bink.map;-Wl,--gc-sections;-static"
+            }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "Debug",
+            "configurePreset": "Debug"
+        },
+        {
+            "name": "Release",
+            "configurePreset": "Release"
+        }
+    ]
+}

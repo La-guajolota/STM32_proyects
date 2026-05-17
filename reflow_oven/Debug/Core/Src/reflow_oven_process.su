@@ -1,8 +1,0 @@
-../Core/Src/reflow_oven_process.c:37:6:ReflowOven_Init	4	static
-../Core/Src/reflow_oven_process.c:71:6:ReflowOven_modifyParameters	24	static
-../Core/Src/reflow_oven_process.c:180:6:ReflowOven_startProcess	4	static
-../Core/Src/reflow_oven_process.c:193:6:ReflowOven_stopProcess	4	static
-../Core/Src/reflow_oven_process.c:202:7:ReflowOven_operate	40	static
-../Core/Src/reflow_oven_process.c:335:16:ReflowOven_getCurrentPhase	4	static
-../Core/Src/reflow_oven_process.c:340:10:ReflowOven_getPhaseElapsedTime	16	static
-../Core/Src/reflow_oven_process.c:356:13:ReflowOven_transitionToPhase	24	static
